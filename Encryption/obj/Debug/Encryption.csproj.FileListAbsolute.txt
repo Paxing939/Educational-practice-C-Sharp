@@ -1,0 +1,10 @@
+E:\BSU-Labs\cSharp и УП\Encryption\obj\Debug\Encryption.csprojAssemblyReference.cache
+E:\BSU-Labs\cSharp и УП\Encryption\obj\Debug\Encryption.Form1.resources
+E:\BSU-Labs\cSharp и УП\Encryption\obj\Debug\Encryption.Properties.Resources.resources
+E:\BSU-Labs\cSharp и УП\Encryption\obj\Debug\Encryption.csproj.GenerateResource.cache
+E:\BSU-Labs\cSharp и УП\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+E:\BSU-Labs\cSharp и УП\Encryption\bin\Debug\Encryption.exe.config
+E:\BSU-Labs\cSharp и УП\Encryption\bin\Debug\Encryption.exe
+E:\BSU-Labs\cSharp и УП\Encryption\bin\Debug\Encryption.pdb
+E:\BSU-Labs\cSharp и УП\Encryption\obj\Debug\Encryption.exe
+E:\BSU-Labs\cSharp и УП\Encryption\obj\Debug\Encryption.pdb

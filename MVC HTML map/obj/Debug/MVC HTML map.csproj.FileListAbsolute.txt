@@ -1,0 +1,10 @@
+E:\BSU-Labs\cSharp и УП\MVC HTML map\bin\Debug\MVC HTML map.exe.config
+E:\BSU-Labs\cSharp и УП\MVC HTML map\bin\Debug\MVC HTML map.exe
+E:\BSU-Labs\cSharp и УП\MVC HTML map\bin\Debug\MVC HTML map.pdb
+E:\BSU-Labs\cSharp и УП\MVC HTML map\obj\Debug\MVC HTML map.csprojAssemblyReference.cache
+E:\BSU-Labs\cSharp и УП\MVC HTML map\obj\Debug\MVC_HTML_map.Form1.resources
+E:\BSU-Labs\cSharp и УП\MVC HTML map\obj\Debug\MVC_HTML_map.Properties.Resources.resources
+E:\BSU-Labs\cSharp и УП\MVC HTML map\obj\Debug\MVC HTML map.csproj.GenerateResource.cache
+E:\BSU-Labs\cSharp и УП\MVC HTML map\obj\Debug\MVC HTML map.csproj.CoreCompileInputs.cache
+E:\BSU-Labs\cSharp и УП\MVC HTML map\obj\Debug\MVC HTML map.exe
+E:\BSU-Labs\cSharp и УП\MVC HTML map\obj\Debug\MVC HTML map.pdb

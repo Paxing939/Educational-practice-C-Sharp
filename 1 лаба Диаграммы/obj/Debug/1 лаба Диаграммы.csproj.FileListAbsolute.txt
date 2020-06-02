@@ -1,0 +1,22 @@
+C:\Users\Илья\source\repos\cSharp и УП\1 лаба Диаграммы\bin\Debug\1 лаба Диаграммы.exe.config
+C:\Users\Илья\source\repos\cSharp и УП\1 лаба Диаграммы\bin\Debug\1 лаба Диаграммы.exe
+C:\Users\Илья\source\repos\cSharp и УП\1 лаба Диаграммы\bin\Debug\1 лаба Диаграммы.pdb
+C:\Users\Илья\source\repos\cSharp и УП\1 лаба Диаграммы\obj\Debug\1 лаба Диаграммы.csprojAssemblyReference.cache
+C:\Users\Илья\source\repos\cSharp и УП\1 лаба Диаграммы\obj\Debug\_1_лаба_Диаграммы.Form1.resources
+C:\Users\Илья\source\repos\cSharp и УП\1 лаба Диаграммы\obj\Debug\_1_лаба_Диаграммы.Properties.Resources.resources
+C:\Users\Илья\source\repos\cSharp и УП\1 лаба Диаграммы\obj\Debug\1 лаба Диаграммы.csproj.GenerateResource.cache
+C:\Users\Илья\source\repos\cSharp и УП\1 лаба Диаграммы\obj\Debug\1 лаба Диаграммы.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\cSharp и УП\1 лаба Диаграммы\obj\Debug\1 лаба Диаграммы.exe
+C:\Users\Илья\source\repos\cSharp и УП\1 лаба Диаграммы\obj\Debug\1 лаба Диаграммы.pdb
+C:\Users\Илья\source\repos\cSharp и УП\1 лаба Диаграммы\obj\Debug\_1_лаба_Диаграммы.AboutBox1.resources
+E:\BSU-Labs\cSharp и УП\1 лаба Диаграммы\bin\Debug\1 лаба Диаграммы.exe.config
+E:\BSU-Labs\cSharp и УП\1 лаба Диаграммы\bin\Debug\1 лаба Диаграммы.exe
+E:\BSU-Labs\cSharp и УП\1 лаба Диаграммы\bin\Debug\1 лаба Диаграммы.pdb
+E:\BSU-Labs\cSharp и УП\1 лаба Диаграммы\obj\Debug\1 лаба Диаграммы.csprojAssemblyReference.cache
+E:\BSU-Labs\cSharp и УП\1 лаба Диаграммы\obj\Debug\_1_лаба_Диаграммы.AboutBox1.resources
+E:\BSU-Labs\cSharp и УП\1 лаба Диаграммы\obj\Debug\_1_лаба_Диаграммы.Form1.resources
+E:\BSU-Labs\cSharp и УП\1 лаба Диаграммы\obj\Debug\_1_лаба_Диаграммы.Properties.Resources.resources
+E:\BSU-Labs\cSharp и УП\1 лаба Диаграммы\obj\Debug\1 лаба Диаграммы.csproj.GenerateResource.cache
+E:\BSU-Labs\cSharp и УП\1 лаба Диаграммы\obj\Debug\1 лаба Диаграммы.csproj.CoreCompileInputs.cache
+E:\BSU-Labs\cSharp и УП\1 лаба Диаграммы\obj\Debug\1 лаба Диаграммы.exe
+E:\BSU-Labs\cSharp и УП\1 лаба Диаграммы\obj\Debug\1 лаба Диаграммы.pdb

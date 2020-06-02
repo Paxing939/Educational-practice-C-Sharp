@@ -1,0 +1,10 @@
+E:\BSU-Labs\cSharp и УП\Encodings\bin\Debug\Encodings.exe.config
+E:\BSU-Labs\cSharp и УП\Encodings\bin\Debug\Encodings.exe
+E:\BSU-Labs\cSharp и УП\Encodings\bin\Debug\Encodings.pdb
+E:\BSU-Labs\cSharp и УП\Encodings\obj\Debug\Encodings.Form1.resources
+E:\BSU-Labs\cSharp и УП\Encodings\obj\Debug\Encodings.Properties.Resources.resources
+E:\BSU-Labs\cSharp и УП\Encodings\obj\Debug\Encodings.csproj.GenerateResource.cache
+E:\BSU-Labs\cSharp и УП\Encodings\obj\Debug\Encodings.csproj.CoreCompileInputs.cache
+E:\BSU-Labs\cSharp и УП\Encodings\obj\Debug\Encodings.exe
+E:\BSU-Labs\cSharp и УП\Encodings\obj\Debug\Encodings.pdb
+E:\BSU-Labs\cSharp и УП\Encodings\obj\Debug\Encodings.csprojAssemblyReference.cache

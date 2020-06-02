@@ -1,0 +1,10 @@
+E:\BSU-Labs\cSharp и УП\MVC Split image\bin\Debug\MVC Split image.exe.config
+E:\BSU-Labs\cSharp и УП\MVC Split image\bin\Debug\MVC Split image.exe
+E:\BSU-Labs\cSharp и УП\MVC Split image\bin\Debug\MVC Split image.pdb
+E:\BSU-Labs\cSharp и УП\MVC Split image\obj\Debug\MVC Split image.csprojAssemblyReference.cache
+E:\BSU-Labs\cSharp и УП\MVC Split image\obj\Debug\MVC_Split_image.Form1.resources
+E:\BSU-Labs\cSharp и УП\MVC Split image\obj\Debug\MVC_Split_image.Properties.Resources.resources
+E:\BSU-Labs\cSharp и УП\MVC Split image\obj\Debug\MVC Split image.csproj.GenerateResource.cache
+E:\BSU-Labs\cSharp и УП\MVC Split image\obj\Debug\MVC Split image.csproj.CoreCompileInputs.cache
+E:\BSU-Labs\cSharp и УП\MVC Split image\obj\Debug\MVC Split image.exe
+E:\BSU-Labs\cSharp и УП\MVC Split image\obj\Debug\MVC Split image.pdb

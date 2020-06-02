@@ -1,0 +1,10 @@
+E:\BSU-Labs\cSharp и УП\Odd-even mergesort\bin\Debug\Odd-even mergesort.exe.config
+E:\BSU-Labs\cSharp и УП\Odd-even mergesort\bin\Debug\Odd-even mergesort.exe
+E:\BSU-Labs\cSharp и УП\Odd-even mergesort\bin\Debug\Odd-even mergesort.pdb
+E:\BSU-Labs\cSharp и УП\Odd-even mergesort\obj\Debug\Odd-even mergesort.csprojAssemblyReference.cache
+E:\BSU-Labs\cSharp и УП\Odd-even mergesort\obj\Debug\Odd_even_mergesort.Form1.resources
+E:\BSU-Labs\cSharp и УП\Odd-even mergesort\obj\Debug\Odd_even_mergesort.Properties.Resources.resources
+E:\BSU-Labs\cSharp и УП\Odd-even mergesort\obj\Debug\Odd-even mergesort.csproj.GenerateResource.cache
+E:\BSU-Labs\cSharp и УП\Odd-even mergesort\obj\Debug\Odd-even mergesort.csproj.CoreCompileInputs.cache
+E:\BSU-Labs\cSharp и УП\Odd-even mergesort\obj\Debug\Odd-even mergesort.exe
+E:\BSU-Labs\cSharp и УП\Odd-even mergesort\obj\Debug\Odd-even mergesort.pdb

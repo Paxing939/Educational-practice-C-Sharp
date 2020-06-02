@@ -1,0 +1,29 @@
+E:\BSU-Labs\cSharp и УП\HTML map\bin\Debug\HTML map.exe.config
+E:\BSU-Labs\cSharp и УП\HTML map\bin\Debug\HTML map.exe
+E:\BSU-Labs\cSharp и УП\HTML map\bin\Debug\HTML map.pdb
+E:\BSU-Labs\cSharp и УП\HTML map\obj\Debug\HTML map.csprojAssemblyReference.cache
+E:\BSU-Labs\cSharp и УП\HTML map\obj\Debug\HTML_map.Form1.resources
+E:\BSU-Labs\cSharp и УП\HTML map\obj\Debug\HTML_map.Properties.Resources.resources
+E:\BSU-Labs\cSharp и УП\HTML map\obj\Debug\HTML map.csproj.GenerateResource.cache
+E:\BSU-Labs\cSharp и УП\HTML map\obj\Debug\HTML map.csproj.CoreCompileInputs.cache
+E:\BSU-Labs\cSharp и УП\HTML map\obj\Debug\HTML map.exe
+E:\BSU-Labs\cSharp и УП\HTML map\obj\Debug\HTML map.pdb
+C:\Users\Илья\source\repos\cSharp и УП\HTML map\bin\Debug\HTML map.exe.config
+C:\Users\Илья\source\repos\cSharp и УП\HTML map\bin\Debug\HTML map.exe
+C:\Users\Илья\source\repos\cSharp и УП\HTML map\bin\Debug\HTML map.pdb
+C:\Users\Илья\source\repos\cSharp и УП\HTML map\obj\Debug\HTML map.csprojAssemblyReference.cache
+C:\Users\Илья\source\repos\cSharp и УП\HTML map\obj\Debug\HTML_map.Form1.resources
+C:\Users\Илья\source\repos\cSharp и УП\HTML map\obj\Debug\HTML_map.Properties.Resources.resources
+C:\Users\Илья\source\repos\cSharp и УП\HTML map\obj\Debug\HTML map.csproj.GenerateResource.cache
+C:\Users\Илья\source\repos\cSharp и УП\HTML map\obj\Debug\HTML map.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\cSharp и УП\HTML map\obj\Debug\HTML map.exe
+C:\Users\Илья\source\repos\cSharp и УП\HTML map\obj\Debug\HTML map.pdb
+C:\Users\Ilya\Desktop\cSharp и УП\HTML map\bin\Debug\HTML map.exe.config
+C:\Users\Ilya\Desktop\cSharp и УП\HTML map\bin\Debug\HTML map.exe
+C:\Users\Ilya\Desktop\cSharp и УП\HTML map\bin\Debug\HTML map.pdb
+C:\Users\Ilya\Desktop\cSharp и УП\HTML map\obj\Debug\HTML map.csprojAssemblyReference.cache
+C:\Users\Ilya\Desktop\cSharp и УП\HTML map\obj\Debug\HTML_map.Form1.resources
+C:\Users\Ilya\Desktop\cSharp и УП\HTML map\obj\Debug\HTML_map.Properties.Resources.resources
+C:\Users\Ilya\Desktop\cSharp и УП\HTML map\obj\Debug\HTML map.csproj.GenerateResource.cache
+C:\Users\Ilya\Desktop\cSharp и УП\HTML map\obj\Debug\HTML map.exe
+C:\Users\Ilya\Desktop\cSharp и УП\HTML map\obj\Debug\HTML map.pdb

@@ -1,0 +1,10 @@
+E:\BSU-Labs\cSharp и УП\Split image\bin\Debug\Split image.exe.config
+E:\BSU-Labs\cSharp и УП\Split image\bin\Debug\Split image.exe
+E:\BSU-Labs\cSharp и УП\Split image\bin\Debug\Split image.pdb
+E:\BSU-Labs\cSharp и УП\Split image\obj\Debug\Split image.csprojAssemblyReference.cache
+E:\BSU-Labs\cSharp и УП\Split image\obj\Debug\Split_image.Form1.resources
+E:\BSU-Labs\cSharp и УП\Split image\obj\Debug\Split_image.Properties.Resources.resources
+E:\BSU-Labs\cSharp и УП\Split image\obj\Debug\Split image.csproj.GenerateResource.cache
+E:\BSU-Labs\cSharp и УП\Split image\obj\Debug\Split image.csproj.CoreCompileInputs.cache
+E:\BSU-Labs\cSharp и УП\Split image\obj\Debug\Split image.exe
+E:\BSU-Labs\cSharp и УП\Split image\obj\Debug\Split image.pdb
